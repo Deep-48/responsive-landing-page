@@ -81,7 +81,7 @@ a {
 
 /* Background Images */
 .home {
-  background-image: url('images/0.jpg');
+  background-image: url('/images/0.jpg');
   transition-delay: 0s;
 }
 .projects {
@@ -96,4 +96,5 @@ a {
   background-image: url('images/bg-contact.jpg');
   transition-delay: 0.6s;
 }
+
 
